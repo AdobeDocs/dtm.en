@@ -82,7 +82,7 @@ You can use data elements in the rule editing interface by using the percent sig
 
   ![](assets/rule_condition_data_availability.png)
 
-### In custom script
+### In custom script {#incustom-script}
 
 You can use data elements in custom scripts by using the `_satellite` object.
 

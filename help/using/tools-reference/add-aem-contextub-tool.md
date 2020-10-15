@@ -242,7 +242,7 @@ The example data layer ( `_dl`) will be loaded on the test web page as a Javascr
 
 The DTM data layer monitor (see below) starts before any other DTM functions, so the examples will not deploy the data layer through DTM. Otherwise Javascript warnings might occur because certain data layer values may not be available.
 
-### Define the data layer
+### Define the data layer {#def-data-layer}
 
 The first step in configuring the AEM ContextHub tool is to add it to a web property.
 
@@ -306,7 +306,7 @@ The first step in configuring the AEM ContextHub tool is to add it to a web prop
 
 1. Click **[!UICONTROL Save and Close]** to save the schema and close the editor, then click **[!UICONTROL Save Changes]**.
 
-### Create a data layer data element
+### Create a data layer data element {#create-data-layer-dataelement}
 
 1. In the web property, click the **[!UICONTROL Rules]** tab, then click **[!UICONTROL Data Elements]** in the left menu.
 
@@ -326,7 +326,7 @@ The first step in configuring the AEM ContextHub tool is to add it to a web prop
 
 1. Click **[!UICONTROL Save Data Element]**.
 
-### Create an event-based rule that uses the data element change event type
+### Create an event-based rule that uses the data element change event type {#create-event-based-rule-with-event-type}
 
 1. In the web property, click the **[!UICONTROL Rules]** tab, then click **[!UICONTROL Event Based Rules]** in the left menu.
 
@@ -370,7 +370,7 @@ The first step in configuring the AEM ContextHub tool is to add it to a web prop
 
 1. Click **[!UICONTROL Save Code]**, then click **[!UICONTROL Save Rule]**.
 
-### Validate the implementation
+### Validate the implementation {#validate-implementation}
 
 On the DTM-enabled website that runs the above web property, validate the implementation.
 
