@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: dtm
 audience: end-user
 user-guide-title: DTM User Guide

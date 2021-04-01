@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: experience cloud
 sub-product: dynamic tag management
 audience: end-user
