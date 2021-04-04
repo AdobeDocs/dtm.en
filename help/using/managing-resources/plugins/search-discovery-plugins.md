@@ -6,9 +6,8 @@ seo-title: Search Discovery plugins
 solution: Experience Cloud
 title: Search Discovery plugins
 uuid: 1f69e46c-8c2c-4496-b31f-3c3b477c2b96
-
+exl-id: dfa24a52-671f-4e0c-b43c-512fba71847e
 ---
-
 # Search Discovery plugins{#search-discovery-plugins}
 
 Adobe has partnered with Search Discovery to offer additional plugins to help you with debugging tasks and to help you set up and configure other products.
@@ -38,4 +37,4 @@ DTM Switch is a browser plugin for easy switching of debug mode and staging mode
 ## Drupal plugin
 
 + Set up and configure [Drupal](https://www.drupal.org) using Dynamic Tag Management.
-+ [Contact Search Discovery](https://www.searchdiscovery.com/contact/) for more information and to obtain this tool. 
++ [Contact Search Discovery](https://www.searchdiscovery.com/contact/) for more information and to obtain this tool.

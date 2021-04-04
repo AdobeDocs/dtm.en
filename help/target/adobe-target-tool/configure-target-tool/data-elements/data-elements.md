@@ -6,8 +6,8 @@ seo-title: Data Elements
 solution: Experience Cloud
 title: Data Elements
 uuid: 2793c3d5-9a26-4a11-8c3f-9e30ffeec5a3
+exl-id: d3acd9f5-6343-4736-bd39-61938c81b88f
 ---
-
 # Data Elements{#data-elements}
 
 Information to help you add and use data elements in dynamic tag management for your Target implementation.
@@ -17,4 +17,4 @@ Data elements are the building blocks for rules. Data elements let you create a 
 * [Adding Data Elements](t-adding-data-elements.md)
 * [Using Data Elements](using-data-elements.md)
 
-For more information, see [Data Elements](/help/using/managing-resources/data-elements.md) in the *Dynamic Tag Management Product Documentation*. 
+For more information, see [Data Elements](/help/using/managing-resources/data-elements.md) in the *Dynamic Tag Management Product Documentation*.

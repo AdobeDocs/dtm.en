@@ -6,9 +6,8 @@ seo-title: Create conditions for event-based rules
 solution: Experience Cloud
 title: Create conditions for event-based rules
 uuid: e9f2be37-b235-451a-8c9b-37cca61574f2
-
+exl-id: 8cfd666c-92d6-49ad-a057-f761fc515009
 ---
-
 # Create conditions for event-based rules{#create-conditions-for-event-based-rules}
 
 Conditions determine when an event-based rule is triggered.
@@ -242,4 +241,4 @@ This functionality can be utilized in Dynamic Tag Management rule fields, includ
 
 ## Custom script {#section_1603B0C6B6604EC98C19FC0C621D3AA5}
 
-Standard attributes can also be referenced using regular JavaScript in custom code. 
+Standard attributes can also be referenced using regular JavaScript in custom code.

@@ -6,9 +6,8 @@ seo-title: Header and footer code
 solution: Experience Cloud
 title: Header and footer code
 uuid: 32fe3d1f-586d-42be-823e-52324664d85a
-
+exl-id: 3e6c0258-9989-4420-aec3-ff4105bcf788
 ---
-
 # Header and footer code{#header-and-footer-code}
 
 Use Dynamic Tag Management to add header and footer code that determines the loading of JavaScript and page content on your site. You must install both the header and footer code on every page of your site, regardless of the hosting option used.
@@ -31,4 +30,4 @@ Dynamic Tag Management creates staging and production embed codes you can use to
 
 An unsupported implementation will yield unexpected results and prevent Customer Care and Engineering from assisting with your implementation.
 
-Because Dynamic Tag Management includes a snippet of code in both your header and footer, you can run rules at the beginning or end of a page. This ability allows you to implement testing tools and other technologies while retaining control over tracking your pages. 
+Because Dynamic Tag Management includes a snippet of code in both your header and footer, you can run rules at the beginning or end of a page. This ability allows you to implement testing tools and other technologies while retaining control over tracking your pages.

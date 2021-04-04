@@ -4,9 +4,8 @@ seo-description: You can enable Nielsen tracking using Dynamic Tag Management by
 seo-title: Nielsen tool
 title: Nielsen tool
 uuid: 8af277a6-71b5-4fe6-8271-4bb3eb7f37a4
-
+exl-id: 8ba622e1-366f-430f-8e8b-cedeb57c3913
 ---
-
 # Nielsen tool{#nielsen-tool}
 
 You can enable Nielsen tracking using Dynamic Tag Management by creating the Nielsen tool and configuring the page code either automatically or manually. The automatic method is recommended for most users.

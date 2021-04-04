@@ -6,9 +6,8 @@ seo-title: Adobe Tag Manager 2.0 to Dynamic Tag Management mapping
 solution: Experience Cloud
 title: Adobe Tag Manager 2.0 to Dynamic Tag Management mapping
 uuid: e18e2615-fa91-4556-bc9f-9c60bf825cd6
-
+exl-id: 904e8835-94a8-4998-b60c-0937383c78bc
 ---
-
 # Adobe Tag Manager 2.0 to Dynamic Tag Management mapping{#adobe-tag-manager-to-dynamic-tag-management-mapping}
 
 This topic explains how to migrate from each Tag Manager 2.0 tag to a Dynamic Tag Management tag.
@@ -110,4 +109,3 @@ Paste the code into the same Custom editor in Dynamic Tag Management after the *
 >[!NOTE]
 >
 >If the conditions set in the firing rules are the same between each custom tag, they can be placed into a single rule in Dynamic Tag Management.
-

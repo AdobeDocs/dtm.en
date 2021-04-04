@@ -4,9 +4,8 @@ seo-description: Chrome might block document.write calls for visitors on 2G netw
 seo-title: Chrome warning on 2G networks
 title: Chrome warning on 2G networks
 uuid: 51ce547c-1528-4626-8e6d-feddc8cbfb61
-
+exl-id: 6ed26280-527f-4741-a8c7-4270c5f0078b
 ---
-
 # Chrome warning on 2G networks{#chrome-warning-on-g-networks}
 
 Chrome might block document.write calls for visitors on 2G networks.
@@ -54,4 +53,3 @@ If you are deploying 3rd-party tags via rules in DTM, and are concerned about vi
    Any code deployed through DTM that uses `document.write` might be affected. 
 
 1. Test well before deploying.
-

@@ -6,9 +6,8 @@ seo-title: Previous release notes
 solution: Experience Cloud
 title: Previous release notes
 uuid: 3e92cd1b-83ad-429e-a9a2-0616394a1949
-
+exl-id: 424e68ab-c456-4e51-b21a-16cc55d59e06
 ---
-
 # Previous release notes{#previous-release-notes}
 
 Historical release notes for Dynamic Tag Management.
@@ -1030,4 +1029,3 @@ The following table provides information about release notes and fixes for this 
   </tr> 
  </tbody> 
 </table>
-

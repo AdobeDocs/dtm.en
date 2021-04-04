@@ -6,8 +6,8 @@ seo-title: Mboxes on JavaScript Events
 solution: Experience Cloud
 title: Mboxes on JavaScript Events
 uuid: e6af8346-0f03-45f5-a882-4ea5e2abcc59
+exl-id: 5fa77c8d-c570-480d-8f1b-0a0926d07304
 ---
-
 # Mboxes on JavaScript Events{#mboxes-on-javascript-events}
 
 Information to help you trigger mboxes off of JavaScript events.
@@ -54,5 +54,4 @@ For example, you could trigger an `mboxUpdate` when the user clicks an element, 
 
        You can also populate dynamic parameters using your dynamic tag management data elements in the code editor. See [Using Data Elements](../../../adobe-target-tool/configure-target-tool/data-elements/using-data-elements.md#concept-5d81a662c9554753a160ae399b8aeb44)
 
-       Additionally, the `mboxTrack()` plugin can be used in this context. Contact your Target consultant to add this plugin to you [!DNL mbox.js] file. Use `mboxTrack` when you only need to use the call to trigger a metric or report profile information—it cannot be used to serve content. 
-    
+       Additionally, the `mboxTrack()` plugin can be used in this context. Contact your Target consultant to add this plugin to you [!DNL mbox.js] file. Use `mboxTrack` when you only need to use the call to trigger a metric or report profile information—it cannot be used to serve content.

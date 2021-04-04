@@ -6,9 +6,8 @@ seo-title: Rules
 solution: Experience Cloud
 title: Rules
 uuid: 7faccf41-e378-4673-a182-e7e7d7a54985
-
+exl-id: 9790ddb0-d41b-4bb3-83a7-6d4256a4e7f0
 ---
-
 # Rules{#rules}
 
 Dynamic Tag Management is a rule-based system. It looks for user interaction and associated data. When the criteria outlined in your rules are met, the rule triggers the tool, script, or HTML you identified.

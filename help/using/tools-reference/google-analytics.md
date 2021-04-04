@@ -4,8 +4,8 @@ seo-title: Google Analytics tool for DTM
 description: Configuration options in DTM for Google Analytics
 seo-description: Configuration options in Dynamic Tag Management (DTM) for Google Analytics
 uuid: 4fca02cc-8c3d-47e9-81be-9248ea908175
+exl-id: 6ba97b80-cf8e-4995-818d-acc070a4991a
 ---
-
 # Google Analytics tool
 
 Google Analytics is configured as a tool in the Dynamic Tag Management interface.

@@ -6,8 +6,8 @@ seo-title: Option 1  Implement Target Automatically via the Marketing Cloud (Eas
 solution: Experience Cloud
 title: Option 1  Implement Target Automatically via the Marketing Cloud (Easiest and Recommended)
 uuid: 03f021f7-c23b-48e6-9634-2628bda63d7b
+exl-id: b75edd6d-7d6c-4c7a-9b2d-de6703b0d55b
 ---
-
 # Option 1: Implement Target Automatically via the Marketing Cloud (Easiest and Recommended){#option-implement-target-automatically-via-the-marketing-cloud-easiest-and-recommended}
 
 Information to help you use the easiest and recommended option to implement Adobe Target in dynamic tag management automatically via the Adobe Marketing Cloud.

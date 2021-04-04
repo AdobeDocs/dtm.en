@@ -4,9 +4,8 @@ seo-description: null
 seo-title: Administration
 title: Administration
 uuid: 422ac82c-131c-4f5d-8c67-8411148fb454
-
+exl-id: a838a2e2-34e1-4728-9119-18704612324e
 ---
-
 # Administration{#administration}
 
 + [Web properties](web-property.md)

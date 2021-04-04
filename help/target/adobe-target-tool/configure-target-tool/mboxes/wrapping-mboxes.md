@@ -6,8 +6,8 @@ seo-title: Wrapping Mboxes
 solution: Experience Cloud
 title: Wrapping Mboxes
 uuid: 7d3431ca-c276-4e51-8778-3c0a687a138a
+exl-id: 8585109e-aedc-4446-8c5e-7c748ea505cf
 ---
-
 # Wrapping Mboxes{#wrapping-mboxes}
 
 If you are a Target Classic Workflow user and aren’t able to use the global mbox for all of your campaigns, the Adobe Target Tool provides an easy method to place wrapping mboxes with built-in flicker handling.

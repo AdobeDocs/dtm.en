@@ -6,9 +6,8 @@ seo-title: Adobe Media Optimizer tool
 solution: Experience Cloud
 title: Adobe Media Optimizer tool
 uuid: e3623c72-92fb-409f-b8e9-a84effc74f4e
-
+exl-id: 31bb082a-0cb8-475a-9760-2051fed402c3
 ---
-
 # Adobe Media Optimizer tool{#adobe-media-optimizer-tool}
 
 Information about deploying Adobe Media Optimizer using Dynamic Tag Management.
@@ -125,5 +124,4 @@ In this example, when this rule fires, Adobe Media Optimizer loads and fires a t
 1. Enable **[!UICONTROL Load Adobe Media Optimizer for this rule]**.
 1. Configure the settings you want to apply in this rule.
 
-   All of the settings are optional, because global configurations from the installed Adobe Media Optimizer tool are inherited. 
-
+   All of the settings are optional, because global configurations from the installed Adobe Media Optimizer tool are inherited.

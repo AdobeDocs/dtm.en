@@ -6,8 +6,8 @@ seo-title: Installing the Debugging Tools
 solution: Experience Cloud
 title: Installing the Debugging Tools
 uuid: 0971448c-684f-4191-8353-c68e127bd4dc
+exl-id: a725348c-410b-421e-819e-3857b531bfad
 ---
-
 # Installing the Debugging Tools{#installing-the-debugging-tools}
 
 In addition to your web browsers’ built-in developer tools, we recommend installing two additional Adobe tools to help QA and troubleshoot Target and dynamic tag management: the Adobe Marketing Cloud Debugger and the DTM Switch.
@@ -39,4 +39,3 @@ Microsoft Internet Explorer and Safari users can get the same functionality by u
 
 * For Debug Statements: `_satellite.setDebug(true)` 
 * To Load the Staging library: `localStorage.setItem('sdsat_stagingLibrary',true)`
-

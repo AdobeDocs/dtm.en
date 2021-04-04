@@ -6,9 +6,8 @@ seo-title: How do tag management systems improve page load speed?
 solution: Experience Cloud
 title: How do tag management systems improve page load speed?
 uuid: d5e9fed0-e5cb-4fae-b55f-8f4c9527e936
-
+exl-id: 20df39ce-d85e-4b6e-a804-ded8a25ba537
 ---
-
 # How do tag management systems improve page load speed?{#how-do-tag-management-systems-improve-page-load-speed}
 
 Information about effective solutions to the issues affecting page load speed.
@@ -61,4 +60,4 @@ The areas where TMS solutions can see appreciable speed differences on the page 
 
 File loading also has an effect on page speed, but more specifically, on the user experience. The use of asynchronous tag loading, conditional logic that determines what file assets will be delivered, and the placement of timeouts on tags provide ways to parallelize tag behavior and improve the loading of the page. Although the final tag weight may not be significantly different at the end of the page load, moving third-party vendor tags from a synchronous to asynchronous load allows multiple assets to load in parallel rather than one at a time. How much flexibility does the TMS provide regarding the timing and sequencing of vendor code? Does the TMS vendor provide best practices for optimizing page performance in relationship to file loading? Can third-party vendor code be easily changed from synchronous to asynchronous loading and vice-versa?
 
-Adobe Dynamic Tag Management excels in each of these four page speed areas and, in certain cases like hosting, provides a better solution than other vendors. However, page load speed is only one area that needs to be addressed when evaluating a TMS. Critical questions need to be answered regarding workflow and governance, rule deployment methodologies, the user interface, implementation, migration, maintenance, and user segmentation capabilities. These are areas that make Adobe Dynamic Tag Management stand out as a system with a proven performance record that clients enjoy using over the long-term. 
+Adobe Dynamic Tag Management excels in each of these four page speed areas and, in certain cases like hosting, provides a better solution than other vendors. However, page load speed is only one area that needs to be addressed when evaluating a TMS. Critical questions need to be answered regarding workflow and governance, rule deployment methodologies, the user interface, implementation, migration, maintenance, and user segmentation capabilities. These are areas that make Adobe Dynamic Tag Management stand out as a system with a proven performance record that clients enjoy using over the long-term.

@@ -4,9 +4,8 @@ seo-description: If you are new to Adobe Dynamic Tag Management (DTM), getting r
 seo-title: Best practices for getting started with Adobe Dynamic Tag Management
 title: Getting started best practices
 uuid: e9bc2108-9742-4391-a58f-cb827040717f
-
+exl-id: 56c317ca-9a84-48bb-9332-75aa5f94602b
 ---
-
 # Getting started best practices
 
 If you are new to Adobe Dynamic Tag Management (DTM), getting ready to migrate to DTM, or brushing up on DTM, this guide is for you.
@@ -656,4 +655,3 @@ Consider the following as you decide if Dynamic Tag Management is right for your
   Best of all, if you're an Adobe Experience Cloud customer, Dynamic Tag Management is free.
 
   Contact your Adobe Account Manager for details.
-

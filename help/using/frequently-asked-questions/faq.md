@@ -6,9 +6,8 @@ seo-title: Frequently Asked Questions
 solution: Experience Cloud
 title: Frequently Asked Questions
 uuid: 94ae0fda-6697-4cb8-bfc1-68529490e06a
-
+exl-id: d1218d28-a122-433d-b946-b122dd413a2f
 ---
-
 # Frequently asked questions{#frequently-asked-questions}
 
 Frequently asked questions about Dynamic Tag Management.

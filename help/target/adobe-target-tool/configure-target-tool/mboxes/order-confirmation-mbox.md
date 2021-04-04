@@ -6,8 +6,8 @@ seo-title: Order Confirmation Mbox
 solution: Experience Cloud
 title: Order Confirmation Mbox
 uuid: e42b5a4c-ba59-49d7-90f1-70d8b26c33f4
+exl-id: d6a33c49-97c0-4860-8cd3-41b1c5af275e
 ---
-
 # Order Confirmation Mbox{#order-confirmation-mbox}
 
 Information to help you configure an order confirmation mbox to record details about purchases.
@@ -59,4 +59,3 @@ Follow the instructions in the [Data Elements](../../../adobe-target-tool/config
 
 1. Save the rule. 
 1. Follow the instructions in [QA, Approval, and Deployal Steps](../../../qa-approval-deployal-steps/qa-approval-deployal-steps.md#concept-8e4631e9f3c440edac488139576849ba).
-

@@ -6,9 +6,8 @@ seo-title: Documentation updates
 solution: Experience Cloud
 title: Documentation updates
 uuid: b83d5476-552e-4bbc-aa81-1f29dbe1def8
-
+exl-id: eca45264-75a1-4351-8a4a-6674baf77ef6
 ---
-
 # Documentation updates{#documentation-updates}
 
 Information about updates to the Dynamic Tag Management help.

@@ -6,9 +6,8 @@ seo-title: Release notes for Dynamic Tag Management
 solution: Experience Cloud
 title: Release notes for Dynamic Tag Management
 uuid: 3676dac9-e2d8-47cf-9010-0f8d1aed06ed
-
+exl-id: 02be1555-5017-4065-8b9a-c024c8e13cc4
 ---
-
 # Release notes for Dynamic Tag Management{#release-notes-for-dynamic-tag-management}
 
 Release notes and known issues for Dynamic Tag Management.
@@ -68,4 +67,3 @@ In addition to the notes for each release, the following resources provide addit
   </tr> 
  </tbody> 
 </table>
-

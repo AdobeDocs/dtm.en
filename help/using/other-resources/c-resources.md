@@ -6,9 +6,8 @@ seo-title: Resources
 solution: Experience Cloud
 title: Resources
 uuid: 6dd1d1ff-980a-497f-92c8-c09c6a11a1aa
-
+exl-id: 58c04d81-4e0e-465e-8855-d435474589d3
 ---
-
 # Resources{#resources}
 
 Additional resources to help you get the most out of Dynamic Tag Management.
@@ -29,4 +28,3 @@ Additional resources will be added to this list in the future.
   </tr> 
  </tbody> 
 </table>
-

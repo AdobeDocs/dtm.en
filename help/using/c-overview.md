@@ -6,9 +6,8 @@ seo-title: Dynamic Tag Management overview
 solution: Experience Cloud
 title: Dynamic Tag Management overview
 uuid: 539d7553-fd47-4c1f-b07d-31f96201cbf2
-
+exl-id: ce707b0a-c9cc-400a-9fc3-8ed4d6352349
 ---
-
 # Dynamic Tag Management overview{#dynamic-tag-management-overview}
 
 Dynamic Tag Management lets marketers quickly and easily manage tags and provides innovative tools for collecting and distributing data across digital marketing systems. Dynamic Tag Management also enables responsive delivery of user-specific content —providing new levels of agility and control to companies seeking to thrive in today’s fast paced digital marketplace.
@@ -159,4 +158,4 @@ A series of short videos to demonstrate [!DNL Adobe Dynamic Tag Management] feat
 
 ### DTM Demo Part 6 - Version Control & Governance
 
->[!VIDEO](https://video.tv.adobe.com/v/17188/) 
+>[!VIDEO](https://video.tv.adobe.com/v/17188/)

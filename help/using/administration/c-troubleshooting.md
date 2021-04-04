@@ -6,9 +6,8 @@ seo-title: Troubleshooting
 solution: Experience Cloud
 title: Troubleshooting
 uuid: 134a3b2e-81e9-4703-a17b-ba4dfc0816db
-
+exl-id: 580ae6e2-7110-493f-a21b-85fd1ecf4edd
 ---
-
 # Troubleshooting{#troubleshooting}
 
 Describes several troubleshooting scenarios and their solutions and provides a list of Frequently Asked Questions (FAQ).
@@ -121,4 +120,4 @@ s.eVar1 = _satellite.getVar('Title Tag');
 
 **When I click an internal link on my site, a new window opens when it should not. How do I control the linker link?**
 
-There is likely a code conflict with the linker link feature. Navigate to your analytics tool within your web property and click the settings gear icon next to the tool. Expand the **[!UICONTROL General]** tab of the settings. Under **[!UICONTROL Global Settings]**, you can control the linker link functionality. From here, you can either turn the linker link feature off or you can set it up to activate / not activate on specific element types or selectors. 
+There is likely a code conflict with the linker link feature. Navigate to your analytics tool within your web property and click the settings gear icon next to the tool. Expand the **[!UICONTROL General]** tab of the settings. Under **[!UICONTROL Global Settings]**, you can control the linker link functionality. From here, you can either turn the linker link feature off or you can set it up to activate / not activate on specific element types or selectors.

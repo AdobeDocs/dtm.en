@@ -5,9 +5,8 @@ seo-title: Adobe Tag Manager 1.0 to Dynamic Tag Management mapping
 solution: Experience Cloud
 title: Adobe Tag Manager 1.0 to Dynamic Tag Management mapping
 uuid: dcd2e499-504f-4c64-a8e1-dbd6fe2c2955
-
+exl-id: 8036dd88-93b2-48c2-8850-47e7d07d4ecb
 ---
-
 # Adobe Tag Manager 1.0 to Dynamic Tag Management mapping{#adobe-tag-manager-to-dynamic-tag-management-mapping}
 
 How to migrate from each Adobe Tag Manager 1.0 tag to a Dynamic Tag Management tag.
@@ -119,4 +118,3 @@ Paste the code into the same Custom editor in Dynamic Tag Management after the *
 >[!NOTE]
 >
 >If the conditions set in the firing rules are the same between each custom tag, they can be placed into a single rule in Dynamic Tag Management.
-

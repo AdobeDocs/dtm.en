@@ -6,8 +6,8 @@ seo-title: Performing Approval and Publishing Steps
 solution: Experience Cloud
 title: Performing Approval and Publishing Steps
 uuid: dfde83bc-8581-4e04-ad6a-ef8fe46920dc
+exl-id: 49317308-99b0-49f6-8406-60a091c34557
 ---
-
 # Performing Approval and Publishing Steps{#performing-approval-and-publishing-steps}
 
 Information to help you approve and publish changes to your DTM account after you have performed debugging and QA steps.
@@ -34,4 +34,3 @@ The [!DNL Approvals] page highlights the individual changes that were made. To a
 If you have [!DNL Publishing] privileges, click **[!UICONTROL Publish Property]** in the upper right corner of the DTM property’s [!DNL Overview] page to publish all approved changes.
 
 ![](assets/publish_property.png)
-

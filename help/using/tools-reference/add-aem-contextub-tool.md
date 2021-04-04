@@ -6,9 +6,8 @@ seo-title: Adobe Experience Manager ContextHub tool
 solution: Experience Cloud
 title: Adobe Experience Manager ContextHub tool
 uuid: 4d69b2ec-21f3-4a5d-98ea-00ad9fe08889
-
+exl-id: 497ba333-df1a-4a7c-866f-73c7982801f2
 ---
-
 # Adobe Experience Manager ContextHub tool{#adobe-experience-manager-contexthub-tool}
 
 Use the AEM ContextHub tool to integrate Dynamic Tag Management with the Adobe Experience Manager (AEM) ContextHub (AEM's version of the data layer). You can also use this tool to integrate DTM with any data layer, even for websites that do not use AEM.
@@ -391,4 +390,3 @@ On the DTM-enabled website that runs the above web property, validate the implem
 * Change the object to the correct case value of the match ( `_dl.page.friend = ‘Carl’`) and the alert should once again display.
 
   ![](assets/debugger.png)
-

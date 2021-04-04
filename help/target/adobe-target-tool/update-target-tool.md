@@ -6,8 +6,8 @@ seo-title: Update the Adobe Target Tool
 solution: Experience Cloud
 title: Update the Adobe Target Tool
 uuid: c269a197-ba0e-4335-8f42-2338058e472b
+exl-id: 0736a809-d8ce-4076-bb25-4407e720474b
 ---
-
 # Update the Adobe Target Tool{#update-the-adobe-target-tool}
 
 If you used one of the automatic options when adding the Adobe Target Tool, you can easily update the file whenever Adobe releases a new version of the mbox.js library or if you modify your library settings in the Target UI.
@@ -25,4 +25,3 @@ For more information about the automatic options, see the following topics:
 1. Click **[!UICONTROL Check for Updates]** and follow the instructions in the dialog boxes to update the file.
 
    ![](assets/update_target_tool.png)
-

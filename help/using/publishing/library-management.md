@@ -5,9 +5,8 @@ seo-title: Library management
 solution: Experience Cloud
 title: Library management
 uuid: ffc42599-93e7-40c9-8082-f781858f4056
-
+exl-id: af4c856e-2e81-477c-8e57-5e693459a464
 ---
-
 # Library management{#library-management}
 
 This article contains descriptions of the fields and options in the Library Management settings in Dynamic Tag Management.
@@ -62,5 +61,4 @@ Lets you [insert core AppMeasurement code](../tools-reference/analytics-dtm.md#s
 
 ## Tracker Variable Name
 
-If you want to run two instances of [!DNL Adobe Analytics] in parallel (one within Dynamic Tag Management and one natively), you can rename the main *`s`* object. Renaming the object name avoids collisions. 
-
+If you want to run two instances of [!DNL Adobe Analytics] in parallel (one within Dynamic Tag Management and one natively), you can rename the main *`s`* object. Renaming the object name avoids collisions.

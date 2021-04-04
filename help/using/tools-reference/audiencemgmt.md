@@ -6,9 +6,8 @@ seo-title: Adobe Audience Manager tool
 solution: Experience Cloud
 title: Adobe Audience Manager tool
 uuid: f0ef2cfd-cdde-4fb5-8c07-ee69a5b03d6f
-
+exl-id: d93fd03c-748a-4550-a352-966b85593c45
 ---
-
 # Adobe Audience Manager tool{#adobe-audience-manager-tool}
 
 Information about deploying Adobe Audience Manager using Dynamic Tag Management.
@@ -61,4 +60,3 @@ Information about deploying Adobe Audience Manager using Dynamic Tag Management.
   </tr> 
  </tbody> 
 </table>
-

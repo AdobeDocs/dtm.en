@@ -6,8 +6,8 @@ seo-title: Dynamic Tag Management Implementation
 solution: Experience Cloud
 title: Dynamic Tag Management Implementation
 uuid: 8db85ecb-7d34-4bbc-bee8-19f2a38e9a6c
+exl-id: 18b7b85b-f157-4979-9313-18b3e42b307f
 ---
-
 # Dynamic Tag Management Implementation{#dynamic-tag-management-implementation}
 
 Information to help you properly manage the dynamic tag management embed code while implementing Adobe Target.
@@ -19,4 +19,3 @@ Also, if you use JavaScript libraries, such as jQuery, place them above the DTM 
 The following illustration shows sample embed code with a data object and JavaScript library properly configured:
 
 ![](assets/embed_code_sample.png)
-

@@ -6,9 +6,8 @@ seo-title: Adobe DTM Tools
 solution: Experience Cloud
 title: Tools
 uuid: da61f065-e234-4c60-81fa-9398678f9140
-
+exl-id: faa33d72-1a61-4bd2-ad90-667f4f33a3b1
 ---
-
 # Tools{#tools}
 
 Tools let you quickly integrate Adobe Experience Cloud solutions on your site. Tools go beyond a basic tag because they provide additional configuration options. A tool corresponds to Adobe solutions, such as Analytics and Target, as well as Google Analytics. After you add a tool to a property, it is available for inclusion in a rule.
@@ -42,4 +41,4 @@ See [Rules](../managing-resources/rules.md#concept_2D3F296DD3BD418BAB7A0E2415DD9
 
 Displays users, email addresses, and roles. Click [!UICONTROL Manage Users] to add additional users and define their roles.
 
-See [Users and Permissions](../administration/users.md#concept_2FA1011890C04E59845E8EB1E2345488). 
+See [Users and Permissions](../administration/users.md#concept_2FA1011890C04E59845E8EB1E2345488).

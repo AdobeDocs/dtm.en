@@ -6,8 +6,8 @@ seo-title: Performing QA Steps
 solution: Experience Cloud
 title: Performing QA Steps
 uuid: 2caefdb9-9a07-4567-b7be-2807a55122a6
+exl-id: ffdb0a82-9ff5-459e-8103-43f6d9f272e0
 ---
-
 # Performing QA Steps{#performing-qa-steps}
 
 Steps to help you perform QA steps before approving and deploying your Target implementation.
@@ -56,4 +56,3 @@ In the Network tab, you can verify that your mboxes are firing (they typically b
 The Adobe Marketing Cloud Debugger is also tremendously helpful to verify the calls and parameters:
 
 ![](assets/mc_debugger.png)
-

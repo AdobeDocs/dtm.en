@@ -6,9 +6,8 @@ seo-title: Create and manage groups in DTM
 solution: Experience Cloud
 title: Create and manage groups in DTM
 uuid: e938d14f-10b8-4a57-81f5-6d63dd427083
-
+exl-id: a1f3895f-b853-403f-9b33-b30a0eaa3af0
 ---
-
 # Create and manage groups in DTM{#create-and-manage-groups-in-dtm}
 
 Create user groups, assign group members, and specify default roles.

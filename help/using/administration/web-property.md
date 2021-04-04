@@ -6,9 +6,8 @@ seo-title: Web properties
 solution: Experience Cloud
 title: Web properties
 uuid: a8462a21-e819-45bc-beba-fecea456d8f8
-
+exl-id: ad45e8e2-55a4-46e0-a39a-854499b41f8e
 ---
-
 # Web properties{#web-properties}
 
 A web property is a library of rules and one embed code. A web property can be any grouping of one or more domains and subdomains. You can manage and track these assets similarly. For example, suppose that you have multiple websites based on one template, and you want to track the same assets on all of them. You can apply one web property to multiple domains.
@@ -212,4 +211,3 @@ t_delete_web_property.xml
 1. Click **[!UICONTROL Edit Property]** > **[!UICONTROL Remove Property]**, then confirm the removal of the property.
 
    ![Step Result](assets/remove_property_2.png)
-

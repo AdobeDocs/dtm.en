@@ -6,8 +6,8 @@ seo-title: Adding Data Elements
 solution: Experience Cloud
 title: Adding Data Elements
 uuid: cc1dec67-4358-4977-b44e-abe78f4dbda9
+exl-id: b5992e19-f6ea-4422-b4d6-d92c33957c1b
 ---
-
 # Adding Data Elements{#adding-data-elements}
 
 Information to help you add dynamic tag management data elements.
@@ -28,4 +28,3 @@ Information to help you add dynamic tag management data elements.
 >The example below creates a data element called “Authentication Status” to reflect whether the visitor is “loggedIn” or “loggedOut.” The website sets a cookie “authUser=loggedIn” when the visitor logs in. The data element uses a default value of “loggedOut” to represent the visitor’s status when the “authUser” cookie is not set. Note that the value is remembered only for the Pageview—as soon as the visitor logs in, the data element can change from “loggedOut” to “loggedIn.” This data element could be used to populate an mbox parameter with similar information or as a rule condition to trigger mbox calls. 
 >
 >![](assets/create_data_element.png)>
-

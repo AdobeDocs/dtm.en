@@ -6,8 +6,8 @@ seo-title: Option 2  Implement Target Automatically with Manual Entry of Your Ta
 solution: Experience Cloud
 title: Option 2  Implement Target Automatically with Manual Entry of Your Target Client Code
 uuid: c009f74e-83d9-48e1-9a89-af009e566c0e
+exl-id: 19b569c0-17d0-4b0a-ab60-d86295474e6d
 ---
-
 # Option 2: Implement Target Automatically with Manual Entry of Your Target Client Code{#option-implement-target-automatically-with-manual-entry-of-your-target-client-code}
 
 Information to help you implement Adobe Target automatically in dynamic tag management by manually entering your Target Client Code.

@@ -6,9 +6,8 @@ seo-title: Getting started with DTM
 solution: Experience Cloud
 title: Getting started with DTM
 uuid: 93a3054a-0db9-4dbb-9b12-9f69c7696102
-
+exl-id: 768668ab-f4aa-425e-8961-bb222c12afaf
 ---
-
 # Getting started with DTM{#getting-started-with-dtm}
 
 Information for new users of Dynamic Tag Management.
@@ -239,4 +238,3 @@ Architecturally, Dynamic Tag Management comprises two main components:
 By the end of this video you should be able to:
 
 * Describe the basic elements of DTM's architecture
-

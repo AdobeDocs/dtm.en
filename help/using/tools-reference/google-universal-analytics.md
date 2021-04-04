@@ -6,9 +6,8 @@ seo-title: Google Universal Analytics tool
 solution: Experience Cloud
 title: Google Universal Analytics tool
 uuid: 09c65edf-896d-437c-ab37-54551f643305
-
+exl-id: c71cec0a-7588-49e9-8031-fe42f2a286a8
 ---
-
 # Google Universal Analytics tool{#google-universal-analytics-tool}
 
 Configuration options in Dynamic Tag Management for Google Universal Analytics.
@@ -231,4 +230,3 @@ For example:
 ```
 ga('alexisuniversal.send', 'pageview');
 ```
-

@@ -6,8 +6,8 @@ seo-title: Best Practices for Implementing Adobe Target using Dynamic Tag Manage
 solution: Experience Cloud
 title: Best Practices for Implementing Adobe Target using Dynamic Tag Management
 uuid: 0d2afb6c-df72-4593-8b21-c701badad2e6
+exl-id: 79d83d86-6300-4f77-bddf-9c3167195065
 ---
-
 # Best Practices for Implementing Adobe Target using Dynamic Tag Management{#best-practices-for-implementing-adobe-target-using-dynamic-tag-management}
 
 Adobe Dynamic Tag Management (DTM) makes it quick and easy to implement Adobe Target on your websites.
@@ -60,4 +60,4 @@ Before following the instructions in this guide, we assume that you have met the
  </tbody> 
 </table>
 
-Please check with [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) or refer to the [Additional Resources](additional-resources.md#concept-96eadfea07c544709d599d9d138a6bf5) section of this guide if you need assistance with any of the above prerequisites. 
+Please check with [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) or refer to the [Additional Resources](additional-resources.md#concept-96eadfea07c544709d599d9d138a6bf5) section of this guide if you need assistance with any of the above prerequisites.

@@ -6,9 +6,8 @@ seo-title: Load order for rules
 solution: Experience Cloud
 title: Load order for rules
 uuid: 7046ca75-b370-4bca-9d85-54ca3300d97a
-
+exl-id: 67880b33-d89d-4f1f-9172-4acc7c4ea13f
 ---
-
 # Load order for rules{#load-order-for-rules}
 
 The Dynamic Tag Management load order in relation to the JavaScript load order.
@@ -77,4 +76,3 @@ For example, a complete view of the page load rule queue order can be seen by en
  _satellite.each(_satellite.configurationSettings.pageLoadRules,function(i){(i.event=='windowload')?_satellite.notify(i.event+': '+i.name,1):false})
 
 ```
-

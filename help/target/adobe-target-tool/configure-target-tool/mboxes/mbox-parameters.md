@@ -6,8 +6,8 @@ seo-title: Mbox Parameters
 solution: Experience Cloud
 title: Mbox Parameters
 uuid: 94ff701a-f6ea-4a91-97f0-e7c9c0cafa2a
+exl-id: b9b84765-410e-4ba8-bcbc-2107ca8293fc
 ---
-
 # Mbox Parameters{#mbox-parameters}
 
 Information to help you pass parameters with mbox calls to Adobe Target.
@@ -92,4 +92,3 @@ See [Wrapping Mboxes](../../../adobe-target-tool/configure-target-tool/mboxes/wr
 The `mboxParameters()` function allows you to automatically append parameters to every mbox call. The function is editable on the Setup > Implementation > Edit Mbox.js Settings > Code page. Make your changes, save, and export the updated library in DTM. Be sure to always return something with this function—even if just empty quotes.
 
 ![](assets/parems.png)
-

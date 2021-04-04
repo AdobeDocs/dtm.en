@@ -6,9 +6,8 @@ seo-title: Test unpublished rules for Akamai hosting
 solution: Experience Cloud
 title: Test unpublished rules for Akamai hosting
 uuid: bafa70f9-b1a4-43a2-93bf-2b20b9d5b3f5
-
+exl-id: d62fe7f5-5aa1-485a-9c8e-9d099df3a9d9
 ---
-
 # Test unpublished rules for Akamai hosting{#test-unpublished-rules-for-akamai-hosting}
 
 Test unpublished rules from your console if you use Akamai hosting.

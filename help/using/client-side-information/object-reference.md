@@ -5,9 +5,8 @@ seo-title: Dynamic Tag Management object reference
 solution: Experience Cloud
 title: Dynamic Tag Management object reference
 uuid: 8397bfe0-a24e-46c0-9723-9eadfc0c1184
-
+exl-id: 678be5ef-f958-46e5-86c4-ab746defeee9
 ---
-
 # Dynamic Tag Management object reference{#dynamic-tag-management-object-reference}
 
 A basic object reference for _satellite.
@@ -32,4 +31,3 @@ _satellite.removeCookie()
 _satellite.isLinked()
 
 ```
-

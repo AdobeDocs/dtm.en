@@ -4,9 +4,8 @@ seo-description: null
 seo-title: Deploy JavaScript tags to opt in to DTM
 title: Deploy JavaScript tags to opt in to DTM
 uuid: 9cdf5aeb-0acf-467f-9526-616300485b93
-
+exl-id: 54a9375b-c955-499d-a2f5-5a0213fde72a
 ---
-
 # Deploy JavaScript tags to opt in to DTM{#deploy-javascript-tags-to-opt-in-to-dtm}
 
 The combination of the European Union [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/art-7-gdpr/) and [ePrivacy](https://medium.com/mydata/consent-lost-gdpr-and-found-eprivacy-e85cf881ffb) legislation requires companies to be able to manage consent for their users. Adobe customers may require visitors to opt-in before Adobe solutions execute for any given visitor. Visitors should have the ability to manage their opt-in and opt-out status.
@@ -79,4 +78,3 @@ The Target tool for DTM fires Target on every page that's it's on. There are mul
 
        Adobe strongly suggests you use at.js and not mbox.js, which is no longer supported. 
     1. Set any additional parameters manually within the code editor.
-

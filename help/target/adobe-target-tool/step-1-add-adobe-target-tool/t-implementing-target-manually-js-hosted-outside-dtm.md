@@ -6,8 +6,8 @@ seo-title: Option 4  Implement Target Manually with the Target JavaScript Librar
 solution: Experience Cloud
 title: Option 4  Implement Target Manually with the Target JavaScript Library Hosted Outside of DTM
 uuid: e8aae578-93fb-49ee-8b8f-da71b6f35c43
+exl-id: d9bad60d-42e0-4665-9d61-c1fb15b5767e
 ---
-
 # Option 4: Implement Target Manually with the Target JavaScript Library Hosted Outside of DTM{#option-implement-target-manually-with-the-target-javascript-library-hosted-outside-of-dtm}
 
 Information to help you implement Adobe Target manually by hosting the Target JavaScript Library outside of dynamic tag management.

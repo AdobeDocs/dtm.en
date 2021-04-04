@@ -6,9 +6,8 @@ seo-title: Embed code and hosting options
 solution: Experience Cloud
 title: Embed code and hosting options
 uuid: b05e4cc2-8b2f-42af-97c0-2f68436a7d6e
-
+exl-id: bbcdc2b0-318b-44be-b898-c5320101f2b1
 ---
-
 # Embed code and hosting options{#embed-code-and-hosting-options}
 
 This article includes information about the various hosting options in Dynamic Tag Management: Akamai, self-hosting FTP delivery, and self-hosting library download.

@@ -6,9 +6,8 @@ seo-title: Users and permissions
 solution: Experience Cloud
 title: Users and permissions
 uuid: a98b3a01-005f-4697-b5c9-ad374758def0
-
+exl-id: 6f05b19d-c1e3-4f70-b94d-595bc584fa90
 ---
-
 # Users and permissions{#users-and-permissions}
 
 You can invite users to Dynamic Tag Management and assign user roles and add users to groups.

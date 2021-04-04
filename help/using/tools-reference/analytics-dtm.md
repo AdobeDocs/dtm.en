@@ -6,9 +6,8 @@ seo-title: Adobe Analytics tool
 solution: Experience Cloud
 title: Adobe Analytics tool
 uuid: 8f028897-1fbb-4e03-9721-9fce18a2bb0c
-
+exl-id: ebef8c56-1f6f-4dc9-a0fa-e653b00df20d
 ---
-
 # Adobe Analytics tool{#adobe-analytics-tool}
 
 You can deploy Adobe Analytics (Standard and Premium) using Dynamic Tag Management by creating the Adobe Analytics tool and configuring the page code either automatically or manually. The automatic method is recommended for most users.

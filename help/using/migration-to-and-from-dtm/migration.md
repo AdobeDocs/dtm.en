@@ -6,9 +6,8 @@ seo-title: Migrating to Dynamic Tag Management
 solution: Experience Cloud
 title: Migrating to Dynamic Tag Management
 uuid: f582ff05-50c8-4e95-a7d9-5415484dcce6
-
+exl-id: 13be07a1-9b02-4b59-b891-3ff69ce4eaa3
 ---
-
 # Migrating to Dynamic Tag Management{#migrating-to-dynamic-tag-management}
 
 Dynamic Tag Management provides several options to migrate from a typical JavaScript implementation or a Tag Manager implementation.
@@ -27,4 +26,4 @@ Dynamic Tag Management provides the means for you to have a completely separate 
 
 ![](assets/dual-instances.png){width="269"}
 
-Once you rename the Analytics object then you are able to run both implementations: your original one and the one within Dynamic Tag Management. 
+Once you rename the Analytics object then you are able to run both implementations: your original one and the one within Dynamic Tag Management.

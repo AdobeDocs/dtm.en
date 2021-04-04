@@ -6,9 +6,8 @@ seo-title: Set up actions for the condition to trigger
 solution: Experience Cloud
 title: Set up actions for the condition to trigger
 uuid: 93c89ff1-4b7d-4895-bd75-edb56ea3600b
-
+exl-id: ebcdfaaa-f119-451a-ae90-2ecb4d3c1132
 ---
-
 # Set up actions to trigger{#set-up-actions-for-the-condition-to-trigger}
 
 Set up actions that you want the condition to trigger.
@@ -37,4 +36,3 @@ Each rule can trigger as many scripts or HTML injections as you want.
 1. Specify how you want the script to trigger, and paste the desired content into the text area. ![](assets/scripts_actions3.png){width="472"}
 
 1. Click **[!UICONTROL Save Code]**, and the script will be added to the queue for the rule. ![](assets/scripts_actions4.png){width="472"}
-

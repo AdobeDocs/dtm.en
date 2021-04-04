@@ -6,8 +6,8 @@ seo-title: Adobe Target tool
 solution: Experience Cloud
 title: Adobe Target tool
 uuid: 06562631-7df3-420d-b787-1ccff774b3b4
+exl-id: 497d774e-04d4-497f-a4cb-080aed69e93f
 ---
-
 # Adobe Target tool
 
 Information about creating the Adobe Target tool for deploying Adobe Target in Dynamic Tag Management. You can configure the library automatically (recommended) or manually.

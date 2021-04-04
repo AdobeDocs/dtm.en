@@ -6,9 +6,8 @@ seo-title: Create new rule
 solution: Experience Cloud
 title: Create new rule
 uuid: f171cb2e-d3e4-48a4-b8d2-fed2357f2029
-
+exl-id: c01d801d-d993-490f-943c-370561bdb82a
 ---
-
 # Create new rule
 
 These steps describe how to create rules in Dynamic Tag Management.

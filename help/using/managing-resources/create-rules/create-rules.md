@@ -4,9 +4,8 @@ seo-description: null
 seo-title: Create rules
 title: Create rules
 uuid: 926fe505-d0b5-4b02-9999-f3a26e01743f
-
+exl-id: 39da888a-12cc-4f2b-bd43-573e406ca1e4
 ---
-
 # Create rules{#create-rules}
 
 + [Create new rule](t-rules-create.md)

@@ -6,8 +6,8 @@ seo-title: Global Mbox
 solution: Experience Cloud
 title: Global Mbox
 uuid: 632fbc45-626c-49ce-839e-1e31b91f46fd
+exl-id: dd0dc307-6a7f-46e8-bb90-11ea804c5110
 ---
-
 # Global Mbox{#global-mbox}
 
 Information about creating a global mbox using dynamic tag management.
@@ -25,4 +25,4 @@ For more information about the automatic options, see:
 * [Option 1: Implement Target Automatically via the Marketing Cloud (Easiest and Recommended)](../../../adobe-target-tool/step-1-add-adobe-target-tool/t-implementing-target-automatically-via-marketing-cloud.md#task-03e9936791684888bf6edd9490c3b975) 
 * [Option 2: Implement Target Automatically with Manual Entry of Your Target Client Code](../../../adobe-target-tool/step-1-add-adobe-target-tool/t-implementing-target-automatically-client-code.md#task-388935898be843909bc4701aae8fec47)
 
-Be sure to update the Adobe Target Tool in DTM after making any changes to these settings. For more information, see [Update the Adobe Target Tool](../../../adobe-target-tool/update-target-tool.md#concept-4cef117ee3be4be589f03fafdb38eeeb). 
+Be sure to update the Adobe Target Tool in DTM after making any changes to these settings. For more information, see [Update the Adobe Target Tool](../../../adobe-target-tool/update-target-tool.md#concept-4cef117ee3be4be589f03fafdb38eeeb).
