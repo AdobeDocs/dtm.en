@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Deploy JavaScript tags to opt in to DTM
+description: Deploy JavaScript tags to opt in to DTM
 title: Deploy JavaScript tags to opt in to DTM
 uuid: 9cdf5aeb-0acf-467f-9526-616300485b93
 exl-id: 54a9375b-c955-499d-a2f5-5a0213fde72a

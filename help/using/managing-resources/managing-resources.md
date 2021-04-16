@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Managing resources
+description: Managing resources
 title: Managing resources
 uuid: fcdf84d5-1fee-4305-a783-7f24554a053b
 exl-id: 6dce5312-020d-42e7-8fc4-0508f6dc8f73

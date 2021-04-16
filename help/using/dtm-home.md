@@ -1,8 +1,6 @@
 ---
-description: null
+description: Dynamic Tag Management (DTM) documentation shows how to manage your Adobe Experience Cloud solutions and other tags across all of your sites.
 keywords: Dynamic Tag Management
-seo-description: null
-seo-title: Dynamic Tag Management Product Documentation
 solution: Experience Cloud
 title: Dynamic Tag Management Product Documentation
 uuid: a369caa7-eb0a-4387-8627-431673f9eb99

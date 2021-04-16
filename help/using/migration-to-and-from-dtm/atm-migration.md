@@ -6,7 +6,6 @@ seo-title: Migrating from Adobe Tag Management
 solution: Experience Cloud
 subtopic: Tag management
 title: Migrating from Adobe Tag Management
-topic: Developer and implementation
 uuid: 5095175e-ebb8-4b02-b946-e958ca986dd5
 exl-id: 993bd45a-8697-4e2e-8aed-d4915eff2c38
 ---
