@@ -4,13 +4,6 @@ product: dtm
 audience: end-user
 user-guide-title: DTM User Guide
 user-guide-description: Manage Adobe Experience Cloud solutions and other tags across your sites. Adobe will sunset DTM in January 2021.
-solution-title: DTM
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-image: assets/experience-cloud-logo-24.png
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://github.com/AdobeDocs/dtm.en
 index: yes
 ---
