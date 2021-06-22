@@ -258,11 +258,11 @@ You must be an administrator to deploy using the Library Download.
 
 1. Fill out one or both of the following optional fields:
 
-   | Option| Description|
+   |Option| Description|
    |--- |--- |
    |Shared Secret|Encrypts the Dynamic Tag Management library during download. If you enter a shared secret, AES-256 is used to encrypt your .zip file using this passphrase.|
    |Deploy Hook URL|The process of deploying Dynamic Tag Management files to the server can be automated whenever there is an update. Create a script that is accessible via the specified public URL. If you enter a deploy hook URL, an HTTP POST is made to it every time your bundle is successfully updated. The body of the post includes a payload containing the download URL of the bundle.|
- 
+
 1. Complete the fields under [!UICONTROL Domain and Paths to Tracking File], for staging and production.
 
    Specify the location where the files reside when deployed to your server. Do not include the protocol or any leading or trailing slashes. Dynamic Tag Management requires a domain and a path for HTTP or HTTPS for the production and staging environments.

@@ -80,10 +80,10 @@ You can edit an existing Adobe Analytics tool to change its configuration settin
 
    The following table includes only those elements that differ from the elements available when you are creating an Analytics tool, as described above. However, you can change any element on the page, as described in both tables.
 
-  |Element|Description|
-  |---|---|
-  |Enable Automatic Configuration|This option lets Dynamic Tag Management automatically retrieve your [!DNL Adobe Analytics] account's configuration. The latest available AppMeasurement code is used and upgrade notifications are displayed for selection as new versions become available. You can also roll back to previous AppMeasurement versions as necessary, such as for compatibility reasons. Up to five previous versions are displayed. Enabling this setting changes a manually configured implementation to the automatic configuration method described in Configuration Method. |
-  |Update Credentials|Refresh the API, for example, to update report suites associated with a user.|
+   |Element|Description|
+   |---|---|
+   |Enable Automatic Configuration|This option lets Dynamic Tag Management automatically retrieve your [!DNL Adobe Analytics] account's configuration. The latest available AppMeasurement code is used and upgrade notifications are displayed for selection as new versions become available. You can also roll back to previous AppMeasurement versions as necessary, such as for compatibility reasons. Up to five previous versions are displayed. Enabling this setting changes a manually configured implementation to the automatic configuration method described in Configuration Method. |
+   |Update Credentials|Refresh the API, for example, to update report suites associated with a user.|
 
 1. (Conditional) Configure the tool further as necessary by following the directions in the sections below ( [!UICONTROL General], [!UICONTROL Library Management], [!UICONTROL Global Variables], [!UICONTROL Pageviews & Content], [!UICONTROL Link Tracking], [!UICONTROL Referrers & Campaigns], [!UICONTROL Cookies], and [!UICONTROL Customize Page Code]).
 1. Click **[!UICONTROL Save Changes]**.
@@ -507,7 +507,7 @@ If you want to change a manual configuration to automatic, edit a tool and click
       |  Tool Type  | The Experience Cloud solution, such as Analytics, Target, Social, and so on.  |
       |  Tool Name  | The name for this tool. This name displays on the [!UICONTROL Overview] tab under [!UICONTROL Installed Tools].  |
       |  Production Account ID  | A number for your production account for data collection. Dynamic Tag Management automatically installs the correct account in the production and staging environment.  |
-      |  Staging Account ID  | A number used in your development or test environment. A staging account keeps your testing data separate from production.  |
+      |  Staging Account ID  | A number used in your development or test environment. A staging account keeps your testing data separate from production.|
 
 1. Click **[!UICONTROL Create Tool]**.
 

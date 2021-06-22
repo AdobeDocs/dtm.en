@@ -38,12 +38,12 @@ When you configure this tool, you can use the default setting to integrate with 
 
 1. Fill in the fields:
 
-    | Element | Description |
-    |---|---|
-    |Use Default ContextHub Data Layer|Use the AEM ContextHub format. With this option selected, DTM references the default ContextHub schema for this integration. If you have made changes to your ContextHub schema, or want to use a different data layer, use the customized option.|
-    |Customize ContextHub Data Layer|Use a custom format that maps to the data layer structure of any website, even if it does not use AEM. This option lets you edit your data layer schema. By default, it populates the edit window with the default ContextHub data layer, where you can make changes or completely replace it with your code.|
-    |Open Editor |If you choose the Customize ContextHub Data Layer option, you can use the editor to insert your custom code.|
-    |Add a Note |Add any notes regarding this implementation.|
+   | Element | Description |
+   |---|---|
+   |Use Default ContextHub Data Layer|Use the AEM ContextHub format. With this option selected, DTM references the default ContextHub schema for this integration. If you have made changes to your ContextHub schema, or want to use a different data layer, use the customized option.|
+   |Customize ContextHub Data Layer|Use a custom format that maps to the data layer structure of any website, even if it does not use AEM. This option lets you edit your data layer schema. By default, it populates the edit window with the default ContextHub data layer, where you can make changes or completely replace it with your code.|
+   |Open Editor |If you choose the Customize ContextHub Data Layer option, you can use the editor to insert your custom code.|
+   |Add a Note |Add any notes regarding this implementation.|
 
 1. Click **[!UICONTROL Save Changes]**.
 

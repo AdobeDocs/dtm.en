@@ -111,7 +111,7 @@ t_create_group.xml
 
    **Default Role:** (Optional) Select a default role. All newly created properties going forward inherit this role. 
 
-   |  User Role  | Create Rules  | Edit Rules  | Test Rules  | Approve<br/>Rules  | Publish<br/>Rules  | Create/<br/>Edit Users  | Create<br/>Property  |
+   |  User Role  | Create Rules  | Edit Rules  | Test Rules  | Approve<br/>Rules  | Publish<br/>Rules  | Create/<br>Edit Users  | Create<br/>Property  |
    |---|---|---|---|---|---|---|---|
    |  **User** | Yes  | Yes  | Yes  |  |  |  |  |
    |  **Approver** | Yes  | Yes  | Yes  | Yes  |  |  |  |
